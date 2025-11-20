@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  
+## ✨ Hi, I'm Dennis ✨
 
-<!--
-**dns-sec/dns-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+I am currently studying IT-, information- and cybersecurity with a strong focus on defensive security and practical, real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Secure systems interest me most when they are designed to be resilient, understandable, and efficient without creating unnecessary friction for users or developers.
+
+My work revolves around understanding threats, analysing risks, building secure environments, and applying security principles in networks, systems, and software.
+  
+## Focus Areas
+- Information security  
+- Defensive cybersecurity
+- Network security and monitoring  
+- Secure system design  
+- Risk management and threat analysis  
+- Practical security tooling
+  
+## Tools and Experience
+- Wireshark, nmap, Suricata, Wazuh  
+- Linux and Windows hardening  
+- Packet Tracer, virtualization  
+- Scripting and automation when needed
+
+#### Security should enhance productivity, not block it.
+
+#### Thanks for visiting my profile.
