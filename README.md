@@ -8,7 +8,7 @@ I am currently studying IT-, information- and cybersecurity with a strong focus 
 
 Secure systems interest me most when they are designed to be resilient, understandable, and efficient without creating unnecessary friction for users or developers.
 
-My work revolves around understanding threats, analysing risks, building secure environments, and applying security principles in networks, systems, and software.
+My aim is to understand threats, analyse risks, build secure environments, and apply security principles in networks, systems, and software.
   
 ## Focus Areas
 - Information security  
