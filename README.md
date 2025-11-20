@@ -1,12 +1,12 @@
 <div align="center">
   
-## ✨ Hi, I'm Dennis ✨
+## Hi, I'm Dennis
 
 </div>
 
-I am currently studying IT-, information- and cybersecurity with a strong focus on defensive security and practical, real-world problem solving.
+I'm a junior IT-, information- and cybersecurity specialist that focuses on defensive security and practical, real-world problem solving.
 
-Secure systems interest me most when they are designed to be resilient, understandable, and efficient without creating unnecessary friction for users or developers.
+I believe in resilient, understandable, and efficient security solutions without creating unnecessary friction for users or developers.
 
 My aim is to understand threats, analyse risks, build secure environments, and apply security principles in networks, systems, and software.
   
