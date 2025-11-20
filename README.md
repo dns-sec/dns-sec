@@ -19,10 +19,11 @@ My aim is to understand threats, analyse risks, build secure environments, and a
 - Practical security tooling
   
 ## Tools and Experience
-- Wireshark, nmap, Suricata, Wazuh  
 - Linux and Windows hardening  
 - Packet Tracer, virtualization  
-- Scripting and automation when needed
+- Wireshark, nmap, Suricata, Wazuh
+- Scripting and automation
+- Languages like C# and Python when needed
 
 #### Security should enhance productivity, not block it.
 
